@@ -12,7 +12,7 @@
 1. Start the typescript compiler in watch mode *(WIP solution)*:
 >`tsc --watch`
 
-2. Then run the code compiled from `index.ts` with:
+2. Then run the code compiled from `index.ts` in a new terminal with:
 >`npm run dev`
 
 
