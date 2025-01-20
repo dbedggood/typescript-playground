@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch out/index.js ",
+    "dev": "tsc --watch & node --watch out/index.js",
     "test": "jest src"
   },
   "author": "",
