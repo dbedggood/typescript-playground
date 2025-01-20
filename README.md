@@ -9,14 +9,11 @@
 
 ## Running your code
 
-1. Start the typescript compiler in watch mode *(WIP solution)*:
->`tsc --watch`
-
-2. Then run the code compiled from `index.ts` in a new terminal with:
+Compile and run the code from `index.ts` in watch mode with:
 >`npm run dev`
 
 
 ## Testing your code
 
-1. Run any tests found in the `src` folder with:
+Run any tests found in the `src` folder with:
 >`npm run test`
