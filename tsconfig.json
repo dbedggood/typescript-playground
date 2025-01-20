@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "strict": true, "outDir": "out", "sourceMap": true },
+  "include": ["src"]
+}
